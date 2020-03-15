@@ -1,0 +1,16 @@
+Stephen Curry GSW 35 34.400 29.800 
+Kevin Durant GSW 46 35.600 28.100 
+Klay Thompson GSW 46 34.300 21.600 
+DeMarcus Cousins GSW 1 15.100 14.000 
+Quinn Cook GSW 40 15.000 7.700 
+Draymond Green GSW 32 31.400 7.200 
+Jonas Jerebko GSW 46 19.200 7.100 
+Kevon Looney GSW 46 21.100 6.600 
+Andre Iguodala GSW 41 23.300 5.600 
+Damian Jones GSW 24 17.100 5.400 
+Alfonzo McKinnie GSW 37 14.500 5.200 
+Damion Lee GSW 16 12.200 4.900 
+Shaun Livingston GSW 35 15.500 4.600 
+Marcus Derrickson GSW 6 5.700 2.800 
+Jordan Bell GSW 43 11.000 2.800 
+Jacob Evans GSW 23 4.300 0.600 

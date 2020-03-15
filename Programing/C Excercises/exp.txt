@@ -1,0 +1,4 @@
+Porto 12.50
+Aveiro 11.80
+Coimbra 12.20
+Lisboa 14.00
